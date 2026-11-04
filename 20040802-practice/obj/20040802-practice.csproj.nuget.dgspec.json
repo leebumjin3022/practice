@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\이범진\\practice\\.git\\20040802-practice\\20040802-practice.csproj": {}
+    "C:\\Users\\ds007\\OneDrive\\Desktop\\practice\\20040802-practice\\20040802-practice.csproj": {}
   },
   "projects": {
-    "C:\\이범진\\practice\\.git\\20040802-practice\\20040802-practice.csproj": {
+    "C:\\Users\\ds007\\OneDrive\\Desktop\\practice\\20040802-practice\\20040802-practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\이범진\\practice\\.git\\20040802-practice\\20040802-practice.csproj",
+        "projectUniqueName": "C:\\Users\\ds007\\OneDrive\\Desktop\\practice\\20040802-practice\\20040802-practice.csproj",
         "projectName": "20040802-practice",
-        "projectPath": "C:\\이범진\\practice\\.git\\20040802-practice\\20040802-practice.csproj",
-        "packagesPath": "C:\\Users\\KOREAIT\\.nuget\\packages\\",
-        "outputPath": "C:\\이범진\\practice\\.git\\20040802-practice\\obj\\",
+        "projectPath": "C:\\Users\\ds007\\OneDrive\\Desktop\\practice\\20040802-practice\\20040802-practice.csproj",
+        "packagesPath": "C:\\Users\\ds007\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ds007\\OneDrive\\Desktop\\practice\\20040802-practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KOREAIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ds007\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
